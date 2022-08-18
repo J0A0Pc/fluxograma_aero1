@@ -246,7 +246,7 @@ const classes = [
     {
       name: "Mecânica dos Fluidos I",
       code: "FEMEC41050",
-      requirementCode: "FEMEC41040",
+      requirementCode: "FAMAT49040",
       classHrs: 60,
       labHrs: 15,
       totalHrs: 75,
