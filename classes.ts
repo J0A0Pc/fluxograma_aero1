@@ -213,7 +213,7 @@ const classes = [
     {
       name: "Projeto aeronáutico assistido por computador",
       code: "FEMEC43041",
-      requirementCode: "FAMAT41021",
+      requirementCode: "FEMEC41021",
       classHrs: 15,
       labHrs: 30,
       totalHrs: 45,
