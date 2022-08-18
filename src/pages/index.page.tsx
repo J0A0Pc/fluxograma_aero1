@@ -26,10 +26,10 @@ const Home: NextPage = () => {
       align="center"
     >
       <Head>
-        <title>Fluxograma Mecatrônica</title>
+        <title>Fluxograma Aeronáutica</title>
         <meta
           name="description"
-          content="Aplicativo para auxiliar na escolha de matérias do curso de Engenharia Mecatrônica da Universidade Federal de Uberlândia (UFU) utilizando o fluxograma oficial do curso."
+          content="Aplicativo para auxiliar na escolha de matérias do curso de Engenharia Aeronáutica da Universidade Federal de Uberlândia (UFU) utilizando o fluxograma oficial do curso."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
