@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://classrequest.vercel.app /" />
-        <meta property="og:title" content="Fluxograma Mecatrônica" />
+        <meta property="og:title" content="Fluxograma Aeronáutica" />
         <meta
           property="og:description"
           content="Aplicativo para auxiliar na escolha de matérias do curso de Engenharia Mecatrônica da Universidade Federal de Uberlândia (UFU) utilizando o fluxograma oficial do curso."
@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           property="twitter:url"
           content="https://classrequest.vercel.app/"
         />
-        <meta property="twitter:title" content="Fluxograma Mecatrônica" />
+        <meta property="twitter:title" content="Fluxograma Aeronáutica" />
         <meta
           property="twitter:description"
           content="Aplicativo para auxiliar na escolha de matérias do curso de Engenharia Mecatrônica da Universidade Federal de Uberlândia (UFU) utilizando o fluxograma oficial do curso."
