@@ -62,7 +62,7 @@ const InstructionsModal = () => {
           <VStack spacing={4} textAlign="center">
             <Text>
               {" "}
-              Esse site interativo é um fluxograma da Faculdade de Mecatrônica
+              Esse site interativo é um fluxograma da Faculdade de Engenharia Aeronáutica
               da Universidade Federal de Uberlândia.
             </Text>
             <Heading fontSize="xl">Como utilizar?</Heading>
