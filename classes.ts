@@ -270,7 +270,7 @@ const classes = [
     {
       name: "Termodinâmica Aplicada",
       code: "FEMEC41051",
-      requirementCode: "FAMAT49040",
+      requirementCode: "FEMEC41040",
       classHrs: 60,
       labHrs: 15,
       totalHrs: 75,
