@@ -373,7 +373,8 @@ const classes = [
     },
     {
       name: "Aerodinâmica Aplicada",
-      code: "FEMEC42073",
+      code: "FEMEC43071",
+      requirementCode: "FEMEC41062",
       classHrs: 60,
       labHrs: 15,
       totalHrs: 75,
