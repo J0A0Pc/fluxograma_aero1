@@ -406,7 +406,7 @@ const classes = [
     },
     {
       name: "Aerodinâmica Computacional",
-      code: "FEMEC43082",
+      code: "FEMEC43083",
       requirementCode: "FEMEC43071",
       classHrs: 45,
       labHrs: 15,
